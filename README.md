@@ -12,7 +12,7 @@
  - One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
  - She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
  - Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
- - About Client : [Social Buzz](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data_Analytics%20Client%20Brief.pdf)
+ - About Client : [Social Buzz](https://github.com/vamsikrishna-boss/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data_Analytics%20Client%20Brief.pdf)
 
 #### Task for Accenture : 
 
@@ -20,7 +20,7 @@
 -  Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
  
  #### Accenture Project Team :
- <img src = "Project Team.png">
+ <img src = "https://github.com/vamsikrishna-boss/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Project%20Team.png">
  
  #### Task for Data Analyst :
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
